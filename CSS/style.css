@@ -1,14 +1,23 @@
 
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-div {
+.logo {
 
   background: url("../assets/frontpagelogo.jpg");
-  background-color: #cccccc;
   height: 425px;
   background-position: center center;
   background-size: cover;
   margin: 10px;
+}
+
+.homes {
+  font-size: 12px;
+  margin: 10px 60px 0 60px;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #484848;
+}
+
+.main {
+  margin: 0 60px;
 }
