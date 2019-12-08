@@ -74,3 +74,17 @@ h1 {
   line-height: 18px;
   margin-top: 2px;
 }
+
+.row-history {
+  width: 2502px;
+  height: auto;
+  margin: 0px;
+}
+
+.rowitem {
+    display:inline-block;
+    width:238px;
+    height:417px;
+    margin:0px;
+    vertical-align:top;
+}
