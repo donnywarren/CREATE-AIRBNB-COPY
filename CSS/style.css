@@ -56,7 +56,14 @@ h2 {
 .row-visit {
   width: 1200px;
   height: auto;
-  margin-top: 90px;
+  margin-top: 80px;
+}
+
+
+.row-water {
+  width: 1200px;
+  height: auto;
+  margin-top: 80px;
 }
 
 
