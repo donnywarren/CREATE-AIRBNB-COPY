@@ -36,7 +36,7 @@ h1 {
 
 h2 {
   padding; 0;
-  margin: 40px 0px 5px 0px;
+  margin: 50px 0px 5px 0px;
   font-size: 24px;
   font-weight: 600;
 }
@@ -46,11 +46,23 @@ h2 {
   width: 746px;
 }
 
+.row-history {
+  width: 1200px;
+  height: auto;
+  margin-top: 40px;
+}
+
+
 .larger {
   font-size: 24px;
   font-weight: 300;
   line-height: 30px;
   color: #484848;
+}
+
+.row-description {
+  width: 50%;
+  margin-bottom: 30px;
 }
 
 .nextlarger {
@@ -88,12 +100,6 @@ h2 {
   font-size: 12px;
   line-height: 18px;
   margin-top: 3px;
-}
-
-.row-history {
-  width: 1200px;
-  height: auto;
-  margin-top: 40px;
 }
 
 .rowitem {
