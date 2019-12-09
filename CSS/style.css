@@ -34,6 +34,13 @@ h1 {
   font-weight: 600;
 }
 
+h2 {
+  padding; 0;
+  margin: 40px 0px 5px 0px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
 .main {
   margin: 35px 77px 0;
   width: 746px;
@@ -46,45 +53,58 @@ h1 {
   color: #484848;
 }
 
+.nextlarger {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  color: #484848;
+}
+
 .photo {
   size: 238px 417px;
-  margin: 8px;
+  margin: 0px;
 }
 
 .line1 {
-  font-size: 12px;
-  font-weight: 600;
-  margin-bottom: 6px;
+  font-size: 11px;
+  margin: 6px 0px;
   line-height: 16px;
+  font-weight: 500;
+  color: #717171;
 }
 
 .line2 {
-  font-size: 16px;
+  font-size: 15px;
   line-height: 20px;
 }
 
 .line3 {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 20px;
   margin-top: 6px;
 }
 
 .line4 {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 18px;
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
 .row-history {
-  width: 2502px;
+  width: 1200px;
   height: auto;
-  margin: 0px;
+  margin-top: 40px;
 }
 
 .rowitem {
     display:inline-block;
-    width:238px;
+    width:188px;
     height:417px;
-    margin:0px;
+    margin:3px;
     vertical-align:top;
+}
+.showall {
+  font-size: 16px;
+  font-weight: 400;
+  color:#008489;
 }
