@@ -67,6 +67,14 @@ h2 {
 }
 
 
+.row-rentals {
+  width: 1200px;
+  height: auto;
+  margin-top: 80px;
+}
+
+
+
 .larger {
   font-size: 24px;
   font-weight: 300;
@@ -123,6 +131,15 @@ h2 {
     margin:3px;
     vertical-align:top;
 }
+
+.rentitem {
+    display:inline-block;
+    width:285px;
+    height:345px;
+    margin:3px;
+    vertical-align:top;
+}
+
 .showall {
   font-size: 16px;
   font-weight: 400;
