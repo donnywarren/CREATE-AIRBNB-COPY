@@ -135,7 +135,7 @@ h2 {
 .rentitem {
     display:inline-block;
     width:285px;
-    height:345px;
+    height:300px;
     margin:3px;
     vertical-align:top;
 }
@@ -144,4 +144,28 @@ h2 {
   font-size: 16px;
   font-weight: 400;
   color:#008489;
+}
+
+.right {
+  float:right;
+}
+
+
+.rentline1 {
+  font-size: 13px;
+  margin: 6px 0px;
+  line-height: 14px;
+  font-weight: 500;
+  color: #717171;
+}
+
+.rentline2 {
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.rentline3 {
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 6px;
 }
