@@ -41,6 +41,39 @@ h2 {
   font-weight: 600;
 }
 
+a {
+  color: none;
+  border:none;
+  text-decoration: none;
+}
+
+
+
+.photo {
+  position: relative;
+  }
+
+
+.btn {
+  position: absolute;
+  top: 1%;
+  left: 75%;
+  background-color: transparent;
+  color: rgba(255,255,255,0.4);
+  font-size:42px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: transparent;
+  color: white;
+}
+
+
+
+
 .main {
   margin: 35px 77px 0;
   width: 746px;
@@ -168,4 +201,12 @@ h2 {
   font-size: 14px;
   line-height: 18px;
   margin-top: 6px;
+}
+
+/* save list page styles */
+
+#savedlistlogin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
