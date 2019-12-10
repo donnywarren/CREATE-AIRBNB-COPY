@@ -211,3 +211,13 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* all page */
+
+.reallybig {
+  font-size: 84px;
+  color: #008489;
+  text-align:center;
+  margin: 100px;
+
+}
