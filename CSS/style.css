@@ -8,12 +8,31 @@
   margin: 0px 0px 10px 0px;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main {
+  margin: 35px 77px 0;
+  width: 746px;
+}
+
 .homes {
   font-size: 11px;
   line-height: 20px;
   font-weight: 600;
   color: #787878;
 }
+
+
+.larger {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 30px;
+  color: #484848;
+}
+
 body {
   margin: 0;
   Padding: 0;
@@ -73,13 +92,6 @@ a {
 }
 
 
-
-
-.main {
-  margin: 35px 77px 0;
-  width: 746px;
-}
-
 .row-history {
   width: 1200px;
   height: auto;
@@ -105,15 +117,6 @@ a {
   width: 1200px;
   height: auto;
   margin-top: 80px;
-}
-
-
-
-.larger {
-  font-size: 24px;
-  font-weight: 300;
-  line-height: 30px;
-  color: #484848;
 }
 
 .row-description {
@@ -215,7 +218,7 @@ a {
 /* all page */
 
 .reallybig {
-  font-size: 84px;
+  font-size: 244px;
   color: #008489;
   text-align:center;
   margin: 100px;
