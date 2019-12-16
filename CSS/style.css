@@ -1,4 +1,13 @@
 
+
+body {
+  margin: 0;
+  Padding: 0;
+  font-family: 'Roboto:', sans-serif;
+  font-size: 18px;
+  color: #484848;
+}
+
 .logo {
 
   background: url("../assets/frontpagelogo.jpg");
@@ -30,14 +39,6 @@
   font-size: 24px;
   font-weight: 300;
   line-height: 30px;
-  color: #484848;
-}
-
-body {
-  margin: 0;
-  Padding: 0;
-  font-family: 'Roboto:', sans-serif;
-  font-size: 18px;
   color: #484848;
 }
 
