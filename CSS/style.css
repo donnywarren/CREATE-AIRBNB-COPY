@@ -61,6 +61,10 @@ h2 {
   font-weight: 600;
 }
 
+.row-body {
+  margin: 0px 77px;
+}
+
 
 .photo {
   position: relative;
