@@ -24,7 +24,7 @@ body {
 
 .main {
   margin: 35px 77px 0;
-  width: 746px;
+  max-width: 746px;
 }
 
 .homes {
@@ -109,21 +109,17 @@ h2 {
   margin-bottom: 30px;
 }
 
-
 .row-visit {
   margin-top: 80px;
 }
-
 
 .row-water {
   margin-top: 80px;
 }
 
-
 .row-rentals {
   margin-top: 80px;
 }
-
 
 .line1 {
   font-size: 11px;
@@ -151,7 +147,7 @@ h2 {
 }
 
 .rowitem {
-    display:inline-block;
+    /* display:inline-block; */
     width:188px;
     height:417px;
     margin:3px;
@@ -159,7 +155,7 @@ h2 {
 }
 
 .rentitem {
-    display:inline-block;
+    /* display:inline-block; */
     width:285px;
     height:300px;
     margin:3px;
