@@ -42,6 +42,14 @@ body {
   color: #484848;
 }
 
+.nextlarger {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  color: #484848;
+}
+
+
 p {
   font-size: 0;
   margin: 0;
@@ -103,32 +111,19 @@ h2 {
 
 
 .row-visit {
-  width: 1200px;
-  height: auto;
   margin-top: 80px;
 }
 
 
 .row-water {
-  width: 1200px;
-  height: auto;
   margin-top: 80px;
 }
 
 
 .row-rentals {
-  width: 1200px;
-  height: auto;
   margin-top: 80px;
 }
 
-
-.nextlarger {
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 24px;
-  color: #484848;
-}
 
 .line1 {
   font-size: 11px;
