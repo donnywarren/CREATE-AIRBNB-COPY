@@ -246,4 +246,6 @@ h2 {
     display: block;
     text-transform: capitalize;
   }
+  #savedlistlogin {
+    width: 60%;
 }
