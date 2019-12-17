@@ -94,9 +94,19 @@ h2 {
 
 
 .row-history {
-  width: 1200px;
-  height: auto;
   margin-top: 40px;
+}
+
+.row-description {
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.test {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin-bottom: 30px;
 }
 
 
@@ -120,10 +130,6 @@ h2 {
   margin-top: 80px;
 }
 
-.row-description {
-  width: 50%;
-  margin-bottom: 30px;
-}
 
 .nextlarger {
   font-size: 16px;
