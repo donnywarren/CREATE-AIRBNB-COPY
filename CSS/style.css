@@ -92,20 +92,12 @@ h2 {
   color: white;
 }
 
-
 .row-history {
   margin-top: 40px;
 }
 
 .row-description {
-  width: 50%;
-  margin-bottom: 30px;
-}
-
-.test {
-  display: flex;
-  flex-wrap: wrap;
-  width: 50%;
+  max-width: 600px;
   margin-bottom: 30px;
 }
 
