@@ -204,6 +204,13 @@ h2 {
 
 /* all page */
 
+.returnhome {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 30px;
+  color:#008489;
+}
+
 .reallybig {
   font-size: 244px;
   color: #008489;
