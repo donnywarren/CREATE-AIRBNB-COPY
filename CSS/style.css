@@ -27,18 +27,6 @@ body {
   max-width: 746px;
 }
 
-@media screen and (max-width: 600px) {
-  .main {
-    text-align: center;
-  }
-  .h1 {
-    font-size: 300px;
-    text-align: center;
-  }
-  .container {
-    justify-content: center;
-  }
-}
 
 .homes {
   font-size: 11px;
@@ -49,9 +37,9 @@ body {
 
 
 .larger {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 300;
-  line-height: 26px;
+  line-height: 30px;
   color: #484848;
 }
 
@@ -78,9 +66,8 @@ h1 {
 h2 {
   padding; 0;
   margin: 50px 0px 5px 0px;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 600;
-  text-align: center;
 }
 
 .row-body {
@@ -222,4 +209,29 @@ h2 {
   text-align:center;
   margin: 100px;
 
+}
+
+/* SCREEN SIZE RESPONSE CODE */
+
+@media screen and (max-width: 600px) {
+  .main {
+    text-align: center;
+  }
+  .container {
+    justify-content: center;
+  }
+
+  h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .larger {
+    font-size: 20px;
+    line-height: 26px;
+  }
 }
