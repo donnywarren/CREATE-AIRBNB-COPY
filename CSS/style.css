@@ -20,11 +20,22 @@ body {
 .container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .main {
   margin: 35px 77px 0;
   max-width: 746px;
+}
+
+@media screen and (max-width: 600px) {
+  .main {
+    text-align: center;
+  }
+  .h1 {
+    font-size: 300px;
+    text-align: center;
+  }
 }
 
 .homes {
@@ -36,16 +47,16 @@ body {
 
 
 .larger {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
-  line-height: 30px;
+  line-height: 26px;
   color: #484848;
 }
 
 .nextlarger {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
-  line-height: 24px;
+  line-height: 22px;
   color: #484848;
 }
 
@@ -58,15 +69,16 @@ p {
 h1 {
   padding: 0;
   margin: 0px 0px 10px 0px;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 600;
 }
 
 h2 {
   padding; 0;
   margin: 50px 0px 5px 0px;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
+  text-align: center;
 }
 
 .row-body {
